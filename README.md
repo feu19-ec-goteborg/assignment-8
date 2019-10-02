@@ -8,4 +8,4 @@ Uppgiften ska utföras ensam.
 
 ## Instruktioner
 
-Klona repot till din dator. I en annan branch finns det en fil som innehåller en lista med vilka som är godkända på uppgiften. För att bli godkänd på uppgiften ska du skapa en pull request som lägger till ditt namn i listan över godkända studenter.
+This is not the branch you're looking for.
