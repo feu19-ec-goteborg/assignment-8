@@ -7,4 +7,5 @@ Godkända:
 - Alexander Risteski
 - Hanna Möllergren
 - Fanny Ahlm
+- Pontus Zetterberg
 
