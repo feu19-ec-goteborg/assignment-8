@@ -5,5 +5,7 @@ Detta är en lista över alla studenter som är godkända hittills. Lägg till e
 Godkända:
 - Gabrielle Jonsson
 - Alexander Risteski
+- Hanna Möllergren
 - Fanny Ahlm
 - Pontus Zetterberg
+
