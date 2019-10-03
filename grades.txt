@@ -1,4 +1,4 @@
-﻿Detta är en lista över alla studenter som är godkända hittills. Lägg till en ny rad med ditt namn och bindestreck först. Exempel:
+Detta är en lista över alla studenter som är godkända hittills. Lägg till en ny rad med ditt namn och bindestreck först. Exempel:
 - David Andersson
 
 
@@ -6,3 +6,5 @@ Godkända:
 - Gabrielle Jonsson
 - Alexander Risteski
 - Hanna Möllergren
+- Fanny Ahlm
+
