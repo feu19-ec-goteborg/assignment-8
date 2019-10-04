@@ -3,6 +3,7 @@ Detta är en lista över alla studenter som är godkända hittills. Lägg till e
 
 
 Godkända:
+- Karin Karlsson
 - Gabrielle Jonsson
 - Alexander Risteski
 - Alexandra Jampolskaia
