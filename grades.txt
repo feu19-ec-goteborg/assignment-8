@@ -15,4 +15,5 @@ Godkända:
 - Nancy Blom
 - Neda Jahadi
 - Ahmed Aljabbari
+- Daniel Johannesson
 
