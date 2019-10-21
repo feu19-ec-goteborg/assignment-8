@@ -16,4 +16,5 @@ Godkända:
 - Neda Jahadi
 - Ahmed Aljabbari
 - Daniel Johannesson
+- Oscar Törnqvist
 
