@@ -17,4 +17,4 @@ Godkända:
 - Ahmed Aljabbari
 - Daniel Johannesson
 - Oscar Törnqvist
-
+- Andreas Karlsson
