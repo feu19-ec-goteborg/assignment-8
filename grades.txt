@@ -1,8 +1,29 @@
-﻿Detta är en lista över alla studenter som är godkända hittills. Lägg till en ny rad med ditt namn och bindestreck först. Exempel:
+﻿﻿Detta är en lista över alla studenter som är godkända hittills. Lägg till en ny rad med ditt namn och bindestreck först. Exempel:
 - David Andersson
 
 
 Godkända:
+- Alexander Colik
+- Johanna Forsberg
+- Karin Karlsson
 - Gabrielle Jonsson
 - Alexander Risteski
-- New Sharmin Aktar Mousumi
+- Angelic Andersson
+- Alexander Caspersson
+- Alexandra Jampolskaia
+- Hanna Möllergren
+- Fanny Ahlm
+- Pontus Zetterberg
+- Nancy Blom
+- Neda Jahadi
+- Ahmed Aljabbari
+- Daniel Johannesson
+- Oscar Törnqvist
+- Andreas Karlsson
+- Mohamed Albushra
+-jahirul haq
+- Robin Magnevik
+- Tobias Johnsson
+- Emil Hammarstrand
+- Jonas Forsi
+Sharmin Aktar Mousumi
